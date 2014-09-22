@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metrologia1", "met1\metrologia1.csproj", "{954563BD-83F3-4448-932A-104BB3A1E1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metTest1", "metTest1\metTest1.csproj", "{8D674107-3ADF-4F8C-9E58-F9491B7E18BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncTest", "FuncTest\FuncTest.csproj", "{82197F58-1CD3-45FF-AAF2-12DE25E36CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954563BD-83F3-4448-932A-104BB3A1E1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954563BD-83F3-4448-932A-104BB3A1E1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954563BD-83F3-4448-932A-104BB3A1E1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954563BD-83F3-4448-932A-104BB3A1E1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D674107-3ADF-4F8C-9E58-F9491B7E18BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D674107-3ADF-4F8C-9E58-F9491B7E18BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D674107-3ADF-4F8C-9E58-F9491B7E18BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D674107-3ADF-4F8C-9E58-F9491B7E18BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82197F58-1CD3-45FF-AAF2-12DE25E36CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82197F58-1CD3-45FF-AAF2-12DE25E36CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82197F58-1CD3-45FF-AAF2-12DE25E36CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82197F58-1CD3-45FF-AAF2-12DE25E36CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

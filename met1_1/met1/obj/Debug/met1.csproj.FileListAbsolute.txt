@@ -1,0 +1,6 @@
+c:\users\spart\documents\visual studio 2012\Projects\met1\met1\bin\Debug\met1.exe.config
+c:\users\spart\documents\visual studio 2012\Projects\met1\met1\obj\Debug\met1.csprojResolveAssemblyReference.cache
+c:\users\spart\documents\visual studio 2012\Projects\met1\met1\bin\Debug\met1.exe
+c:\users\spart\documents\visual studio 2012\Projects\met1\met1\bin\Debug\met1.pdb
+c:\users\spart\documents\visual studio 2012\Projects\met1\met1\obj\Debug\met1.exe
+c:\users\spart\documents\visual studio 2012\Projects\met1\met1\obj\Debug\met1.pdb

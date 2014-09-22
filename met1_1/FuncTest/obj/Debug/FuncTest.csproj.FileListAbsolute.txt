@@ -1,0 +1,9 @@
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\FuncTest\bin\Debug\FuncTest.exe.config
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\FuncTest\bin\Debug\FuncTest.exe
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\FuncTest\bin\Debug\FuncTest.pdb
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\FuncTest\obj\Debug\FuncTest.csprojResolveAssemblyReference.cache
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\FuncTest\obj\Debug\FuncTest.exe
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\FuncTest\obj\Debug\FuncTest.pdb
+C:\Users\Spart\Downloads\met1\met1\FuncTest\bin\Debug\FuncTest.exe.config
+C:\Users\Spart\Downloads\met1\met1\FuncTest\obj\Debug\FuncTest.exe
+C:\Users\Spart\Downloads\met1\met1\FuncTest\obj\Debug\FuncTest.pdb

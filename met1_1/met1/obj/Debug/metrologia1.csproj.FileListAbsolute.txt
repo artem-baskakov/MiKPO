@@ -1,0 +1,6 @@
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\met1\bin\Debug\met1.exe.config
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\met1\obj\Debug\met1.exe
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\met1\obj\Debug\met1.pdb
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\met1\bin\Debug\met1.exe
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\met1\bin\Debug\met1.pdb
+C:\Users\Spart\Documents\Visual Studio 2012\Projects\met1\met1\obj\Debug\metrologia1.csprojResolveAssemblyReference.cache
