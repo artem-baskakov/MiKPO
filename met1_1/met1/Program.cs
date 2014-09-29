@@ -65,15 +65,23 @@ namespace met1
                     {
                         if (s.Length != 0)
                         {
-                            string[] ss = s.Split(new char[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
+                            s = s.Replace('.', ',');
+                            string[] ss = s.Split(';');
                             if (ss.Length == 3)
                             {
-                                d.Add(new data
+                                try
                                 {
-                                    a = Convert.ToDouble(ss[0]),
-                                    b = Convert.ToDouble(ss[1]),
-                                    c = Convert.ToDouble(ss[2])
-                                });
+                                    d.Add(new data
+                                    {
+                                        a = Convert.ToDouble(ss[0]),
+                                        b = Convert.ToDouble(ss[1]),
+                                        c = Convert.ToDouble(ss[2])
+                                    });
+                                }
+                                catch {
+                                    output.Add("Невозможно конвертировать");
+                                    log.Add("Невозможно конвертировать");
+                                }
                             }
                             else
                             {
@@ -139,7 +147,7 @@ namespace met1
 
             work(path, outpath);
 
-            if (manualInput) Console.ReadLine();
+            //if (manualInput) Console.ReadLine();
         }
     }
 }
