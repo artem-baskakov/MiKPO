@@ -1,0 +1,15 @@
+C:\Users\Angelinochka\Desktop\mikpo2\mikpo2\bin\Debug\mikpo2.exe
+C:\Users\Angelinochka\Desktop\mikpo2\mikpo2\bin\Debug\mikpo2.pdb
+C:\Users\Angelinochka\Desktop\mikpo2\mikpo2\obj\x86\Debug\mikpo2.exe
+C:\Users\Angelinochka\Desktop\mikpo2\mikpo2\obj\x86\Debug\mikpo2.pdb
+C:\Users\Angelinochka\Desktop\mikpo2\mikpo2\obj\x86\Debug\mikpo2.csprojResolveAssemblyReference.cache
+C:\Users\Spart\Documents\5 курс\mikpo2\mikpo2\mikpo2\obj\x86\Debug\mikpo2.exe
+C:\Users\Spart\Documents\5 курс\mikpo2\mikpo2\mikpo2\obj\x86\Debug\mikpo2.pdb
+C:\Users\Spart\Documents\5 курс\mikpo2\mikpo2\mikpo2\bin\Debug\mikpo2.exe
+C:\Users\Spart\Documents\5 курс\mikpo2\mikpo2\mikpo2\bin\Debug\mikpo2.pdb
+C:\Users\Spart\Documents\5 курс\mikpo2\mikpo2\mikpo2\obj\x86\Debug\mikpo2.csprojResolveAssemblyReference.cache
+C:\Users\Spart\Documents\GitHub\MiKPO\mikpo2\mikpo2\obj\x86\Debug\mikpo2.exe
+C:\Users\Spart\Documents\GitHub\MiKPO\mikpo2\mikpo2\obj\x86\Debug\mikpo2.pdb
+C:\Users\Spart\Documents\GitHub\MiKPO\mikpo2\mikpo2\bin\Debug\mikpo2.exe
+C:\Users\Spart\Documents\GitHub\MiKPO\mikpo2\mikpo2\bin\Debug\mikpo2.pdb
+C:\Users\Spart\Documents\GitHub\MiKPO\mikpo2\mikpo2\obj\x86\Debug\mikpo2.csprojResolveAssemblyReference.cache
