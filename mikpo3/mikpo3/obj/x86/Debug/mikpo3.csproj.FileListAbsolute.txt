@@ -1,0 +1,10 @@
+C:\Users\Program\Desktop\mikpo3\mikpo3\bin\Debug\mikpo3.exe
+C:\Users\Program\Desktop\mikpo3\mikpo3\bin\Debug\mikpo3.pdb
+C:\Users\Program\Desktop\mikpo3\mikpo3\obj\x86\Debug\mikpo3.exe
+C:\Users\Program\Desktop\mikpo3\mikpo3\obj\x86\Debug\mikpo3.pdb
+F:\mikpo3\mikpo3\obj\x86\Debug\mikpo3.exe
+F:\mikpo3\mikpo3\obj\x86\Debug\mikpo3.pdb
+F:\mikpo3\mikpo3\bin\Debug\mikpo3.exe
+F:\mikpo3\mikpo3\bin\Debug\mikpo3.pdb
+C:\Users\Spart\Downloads\mikpo3 (1)\mikpo3\mikpo3\obj\x86\Debug\mikpo3.exe
+C:\Users\Spart\Downloads\mikpo3 (1)\mikpo3\mikpo3\obj\x86\Debug\mikpo3.pdb

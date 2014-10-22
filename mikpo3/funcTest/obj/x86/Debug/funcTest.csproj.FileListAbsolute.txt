@@ -1,0 +1,4 @@
+C:\Users\Program\Desktop\mikpo3\funcTest\bin\Debug\funcTest.exe
+C:\Users\Program\Desktop\mikpo3\funcTest\bin\Debug\funcTest.pdb
+C:\Users\Program\Desktop\mikpo3\funcTest\obj\x86\Debug\funcTest.exe
+C:\Users\Program\Desktop\mikpo3\funcTest\obj\x86\Debug\funcTest.pdb
